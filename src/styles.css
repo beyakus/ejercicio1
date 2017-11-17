@@ -1,0 +1,26 @@
+/*
+    Elaborado por Daniel Garcia
+*/
+
+.wrapper-navbar{
+    margin-top: 40px;
+}
+.footer{
+    width: 90%;
+    bottom: 0;
+    position: absolute;
+    text-align: center;
+    height: 10px;
+}
+
+@media screen and (max-width:570px){
+
+.footer{
+    width: 90%;
+    bottom: 0;
+    position: relative;
+    text-align: center;
+    height: 10px;
+}
+
+}
